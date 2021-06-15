@@ -67,5 +67,32 @@ expressed by 0.
     
 3. Complete notebook containing Data exploration/Data processing/transformation/model development is being kept [here](https://github.com/Harsh1091996/Book-Recommendation-System/blob/cb7aab70db7b7effe4457e66c2fc26b6e85f64c4/Book_Recommendation_System.ipynb)
  
+## SVD
+Mathematics behind SVD
+For a m × n matrix(M) there exists a singular value decomposition of M, of the form
 
+Singular value decomposition
+where
+U is a m × m unitary matrix. (left singular vector)
+Σ is a m × n diagonal matrix with non-negative real numbers.
+V is a n × n unitary matrix . ( right singular vector)
+V* is the conjugate transpose of the n × n unitary matrix.
+The diagonal values of Σ are known as Singular values of M.
+Conjugate Transpose: The conjugate transpose of a matrix interchanges the row and column index for each element.
+Identity matrix: It is a square matrix in which all the elements of the principal diagonal are ones and all other elements are zeros.
+Diagonal Matrix: It is a matrix in which the entries outside the main diagonal are all zero.
+Unitary matrix: Matrices whose conjugate transpose is also its inverse, that is UU*=I.
+Singular Values: Basically it denotes the square root of the eigenvalues of XX* where X is a matrix.
+# Credits
+Sumanta | Avid Learner | Data Scientist | Machine Learning Engineer | Deep Learning enthusiast
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sumanta97/ )
+[![GitHub Badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sksuman97/)
+[![Medium Badge](https://img.shields.io/badge/Medium-1DA1F2?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@sumanta-skm98)
+[![Resume Badge](https://img.shields.io/badge/resume-0077B5?style=for-the-badge&logo=resume&logoColor=white)](https://drive.google.com/file/d/1DkZqmtw2c_I-EEAOw9iyzd-EAeBoJ6nj/view?usp=sharing)
+
+
+Contact me for Data Science Project Collaborations
+# References
+SVD- https://en.wikipedia.org/wiki/Singular_value_decomposition
 
